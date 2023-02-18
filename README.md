@@ -44,7 +44,7 @@ This agent will review the ticket and start to work on updating it/solving it. F
 <p>
 This ticket will get assigned an sla plan according to the impact the issue has on the business
 </p>
-<img src="https://i.imgur.com/JRlTU4a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AWb4mgl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 This ticket will then be assigned to a team member along with a brief message.
